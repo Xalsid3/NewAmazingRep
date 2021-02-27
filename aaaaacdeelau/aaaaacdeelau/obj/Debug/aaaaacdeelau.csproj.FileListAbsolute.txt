@@ -1,0 +1,7 @@
+D:\Visual\aaaaacdeelau\aaaaacdeelau\bin\Debug\aaaaacdeelau.exe.config
+D:\Visual\aaaaacdeelau\aaaaacdeelau\bin\Debug\aaaaacdeelau.exe
+D:\Visual\aaaaacdeelau\aaaaacdeelau\bin\Debug\aaaaacdeelau.pdb
+D:\Visual\aaaaacdeelau\aaaaacdeelau\obj\Debug\aaaaacdeelau.csprojAssemblyReference.cache
+D:\Visual\aaaaacdeelau\aaaaacdeelau\obj\Debug\aaaaacdeelau.csproj.CoreCompileInputs.cache
+D:\Visual\aaaaacdeelau\aaaaacdeelau\obj\Debug\aaaaacdeelau.exe
+D:\Visual\aaaaacdeelau\aaaaacdeelau\obj\Debug\aaaaacdeelau.pdb
